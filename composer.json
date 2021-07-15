@@ -1,12 +1,12 @@
 {
     "name": "lusge/lxx",
-        "description": "A php c lang extions framework.",
-        "authors": [
-            {
-                "name": "luxixi"
-            }
-        ],
-        "require": {
-            "php": ">=7.2",
+    "description": "A php c lang extions framework.",
+    "authors": [
+        {
+            "name": "luxixi"
         }
+    ],
+    "require": {
+        "php": ">=7.2"
+    }
 }
